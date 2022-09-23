@@ -6,5 +6,18 @@
     padding: 0;
     margin:  0;
     box-sizing: border-box;
+    color: #fff;
 
+  }
+
+  .conta{
+
+    background: #0d1323;
+
+  }
+
+  .two{
+    background-color: #1c204a;
+    border-top: 30px  solid  #f08862;
+    border-radius: 1rem;
   }
